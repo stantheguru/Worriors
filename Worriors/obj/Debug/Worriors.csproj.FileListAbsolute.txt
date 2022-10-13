@@ -1,0 +1,6 @@
+C:\Users\Travelport\Desktop\csharp\Worriors\Worriors\bin\Debug\Worriors.exe.config
+C:\Users\Travelport\Desktop\csharp\Worriors\Worriors\bin\Debug\Worriors.exe
+C:\Users\Travelport\Desktop\csharp\Worriors\Worriors\bin\Debug\Worriors.pdb
+C:\Users\Travelport\Desktop\csharp\Worriors\Worriors\obj\Debug\Worriors.csprojResolveAssemblyReference.cache
+C:\Users\Travelport\Desktop\csharp\Worriors\Worriors\obj\Debug\Worriors.exe
+C:\Users\Travelport\Desktop\csharp\Worriors\Worriors\obj\Debug\Worriors.pdb
